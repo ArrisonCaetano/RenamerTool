@@ -35,7 +35,7 @@ This plugin also includes a **standalone Python-based tool** called `PythonRenam
 
 ## 📦 Installation (Godot Plugin)
 
-1. Download or clone the repository into your project under `res://addons/CaseCleaner/`.
+1. Download or clone the repository into your project under `res://addons/Rename/`.
 2. Enable the plugin in **Project > Project Settings > Plugins**.
 3. Use the UI panel to select a folder and start renaming.
 
