@@ -1,4 +1,4 @@
-# Renamer Tool for Godot
+# FileSystem CaseCleaner for Godot
 A powerful and user-friendly plugin for Godot Engine that allows you to rename folders and files directly within the FileSystem dock.
 Supports batch renaming with customizable casing styles including PascalCase and camelCase for both folders and files.
 Ideal for organizing your project assets consistently and efficiently without leaving the editor.
