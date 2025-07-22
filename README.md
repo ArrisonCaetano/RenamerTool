@@ -9,11 +9,24 @@ Ideal for organizing your project assets consistently and efficiently without le
 
 ## ✨ Features
 
-- ✅ Rename folders recursively to **PascalCase** or **camelCase**
-- ✅ Rename files recursively to **PascalCase** or **camelCase**
+- ✅ Recursively renames **folders** to **PascalCase** or **camelCase**
+- ✅ Recursively renames **files** to **PascalCase** or **camelCase**
 - ✅ Provides real-time feedback via UI labels
 - ✅ Easy integration and use inside the Godot Editor
 - ✅ Streamline your project organization workflow without switching tools
+
+---
+
+### ⚠️ Note about Godot UI refresh
+
+After clicking the **Rename** button and seeing the feedback message, the folders and files **may not appear renamed immediately** in the FileSystem dock.
+
+This is a known limitation of the Godot editor — it doesn't always refresh the file tree in real time.  
+To force the UI to refresh and see the changes:
+
+- Click outside of the Godot window (e.g., `Alt + Tab`)
+- Minimize and restore the editor window  
+These actions will typically cause the editor to reload the file structure and show the correct new names.
 
 ---
 
