@@ -2,13 +2,13 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://bp7jlmo8w56yh"
-path="res://.godot/imported/piada01.mp3-4b5075ebe4fc1572ad507bd378d8eda7.mp3str"
+uid="uid://dev8oqf8txg0r"
+path="res://.godot/imported/Piada01.mp3-ec78704272428d9c08d1c1a634d5f117.mp3str"
 
 [deps]
 
-source_file="res://Source/Folderblue/piada01.mp3"
-dest_files=["res://.godot/imported/piada01.mp3-4b5075ebe4fc1572ad507bd378d8eda7.mp3str"]
+source_file="res://Source/folderblue/Piada01.mp3"
+dest_files=["res://.godot/imported/Piada01.mp3-ec78704272428d9c08d1c1a634d5f117.mp3str"]
 
 [params]
 

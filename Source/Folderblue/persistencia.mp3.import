@@ -2,13 +2,13 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://b4tsjj1u10dkk"
-path="res://.godot/imported/persistencia.mp3-12ae6554500e9056661f93e5280397f0.mp3str"
+uid="uid://buag21m1gjh6t"
+path="res://.godot/imported/Persistencia.mp3-f3cdf6a2fa4b7ffc13adc3973eeaaef1.mp3str"
 
 [deps]
 
-source_file="res://Source/Folderblue/persistencia.mp3"
-dest_files=["res://.godot/imported/persistencia.mp3-12ae6554500e9056661f93e5280397f0.mp3str"]
+source_file="res://Source/folderblue/Persistencia.mp3"
+dest_files=["res://.godot/imported/Persistencia.mp3-f3cdf6a2fa4b7ffc13adc3973eeaaef1.mp3str"]
 
 [params]
 

@@ -21,6 +21,13 @@ theme_override_constants/margin_right = 2
 layout_mode = 2
 theme_override_constants/separation = 5
 
+[node name="Label4" type="Label" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "FileSystem CaseCleaner Tool"
+
+[node name="HSeparator" type="HSeparator" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
 [node name="Label2" type="Label" parent="MarginContainer/VBoxContainer"]
 layout_mode = 2
 text = "Type"
@@ -66,3 +73,4 @@ script = ExtResource("1_bqbnu")
 [node name="feeback" type="Label" parent="MarginContainer/VBoxContainer"]
 unique_name_in_owner = true
 layout_mode = 2
+text = " "
