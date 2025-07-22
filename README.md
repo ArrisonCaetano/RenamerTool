@@ -11,7 +11,6 @@ Ideal for organizing your project assets consistently and efficiently without le
 
 - ✅ Rename folders recursively to **PascalCase** or **camelCase**
 - ✅ Rename files recursively to **PascalCase** or **camelCase**
-- ✅ Handles naming conflicts by appending incremental suffixes
 - ✅ Provides real-time feedback via UI labels
 - ✅ Easy integration and use inside the Godot Editor
 - ✅ Streamline your project organization workflow without switching tools
