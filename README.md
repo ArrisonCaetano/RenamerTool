@@ -30,15 +30,6 @@ These actions will typically cause the editor to reload the file structure and s
 
 ---
 
-## 🐍 Also included: Python Rename Tool
-
-This plugin also includes a **standalone Python-based tool** called `PythonRenameTool`, designed for quick command-line or drag-and-drop use outside of Godot:
-
-### 🔹 How it works:
-- Contains an executable (`RenameCamelCase.exe`) that you can drag and drop any folder onto.
-- When run, it will automatically rename all files and folders within the selected directory to **camelCase**.
-- No setup or configuration needed — just **drag the folder**, **drop on the executable**, and you're done!
-
 ### 🔹 Ideal for:
 - Batch-renaming folders before importing them into Godot
 - Fast cleanup of messy asset directories
